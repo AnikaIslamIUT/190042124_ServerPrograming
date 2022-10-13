@@ -1,0 +1,23 @@
+{
+  "1": {
+    "skill": "Adobe Photoshop -Changed",
+    "skill_rate": "90%"
+    
+  },
+  "2": {
+    "skill": "Photography-Changed",
+    "skill_rate": "80%"
+    
+  },
+  "3": {
+    "skill": "Illustrator-Changed",
+    "skill_rate": "75%"
+
+  },
+  "4": {
+    "skill": "Media-Changed",
+    "skill_rate": "50%"
+
+  }
+
+}

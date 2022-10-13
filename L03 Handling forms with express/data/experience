@@ -1,0 +1,17 @@
+{
+  "1": {
+    "institution": "SELISE",
+    "duration": "2020 - 2021",
+    "text": "Junior Developer"
+  },
+  "2": {
+    "institution": "Samsung",
+    "duration": "2021 - 2021",
+    "text": "Senior Developer"
+  },
+  "3": {
+    "institution": "Facebook",
+    "duration": "2022 - 2023",
+    "text": "Senior Developer"
+  }
+}
